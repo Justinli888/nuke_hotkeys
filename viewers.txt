@@ -1,0 +1,24 @@
+Toggle Play forward – L ( small L )
+Toggle Play backward – j
+Stop – k
+Goto Frame – Alt + g
+Goto first frame – Home key
+Goto last frame – End key
+Next Frame – Right Arrow Key
+Previous Frame – Left Arrow Key
+Jump step forward – Input value in frame increment field and Shift + Right Arrow Key while your cursor on the Viewer pane
+Jump step backward – Input value in frame increment field and Shift + Left Arrow Key while your cursor on the Viewer pane
+Previous keyframe – Alt + Left Arrow key while the mouse pointer is on the Viewer pane
+Next keyframe – Alt + Right Arrow key while the mouse pointer is on the Viewer pane
+Pan the timeline – press Alt key and drag the timeline
+Pan reset the timeline – click the right mouse button once on the timeline
+Adjust playback range – press Ctrl key and drag the red playback marker on the timeline.
+Toggle rgba channels in Viewer pane with Nuke Shortcuts / Nuke Hotkeys
+Put the mouse cursor in Viewer pane then press button from keyboard
+
+r – for red channel
+g – for green channel
+b – for blue channel
+a – for alpha channel
+press any of the above key ( r / g / b / a ) twice to switch back to the rgb mode
+If you use a proxy image then press Ctrl + p to toggle between original and proxy mode

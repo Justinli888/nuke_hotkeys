@@ -1,0 +1,1 @@
+Alt+LMB - Translate Viewer perspective on y (drag up/down) or z (drag left/right).
