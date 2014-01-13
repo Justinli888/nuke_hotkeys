@@ -1,1 +1,0 @@
-Alt+D - Toggle the always in the Dope Sheet box on the node’s properties panel. When active, the node always displays in the Dope Sheet, instead of just displaying when its properties panel is open.
