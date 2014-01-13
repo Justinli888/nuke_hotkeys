@@ -1,1 +1,0 @@
-up or down arrow - Increment (up) or decrement (down) the value in a parameter field. Click first on the field or press Tab to move focus to the parameter.
