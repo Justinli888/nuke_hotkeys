@@ -1,7 +1,6 @@
 from PySide import QtCore, QtGui
 import os
 
-data_path=os.path.abspath('n_hotkeys')
 class NukeHotKeys(QtGui.QWidget):
     def __init__(self):
         super(NukeHotKeys, self).__init__()
